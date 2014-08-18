@@ -1,0 +1,488 @@
+Kismet (http://www.kismetwireless.net)
+Sun Aug 17 20:58:05 2014 - Kismet 2011.03.R2
+-----------------
+
+Network 1: BSSID 00:21:E9:90:F6:F5
+ Manuf      : Apple
+ First      : Sun Aug 17 21:06:33 2014
+ Last       : Sun Aug 17 21:06:33 2014
+ Type       : probe
+ BSSID      : 00:21:E9:90:F6:F5
+ Channel    : 0
+ Frequency  : 27648 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1 packets
+              Sun Aug 17 21:06:33 2014
+ Client 1: MAC 00:21:E9:90:F6:F5
+  Manuf      : Apple
+  First      : Sun Aug 17 21:06:33 2014
+  Last       : Sun Aug 17 21:06:33 2014
+  Type       : To Distribution
+  MAC        : 00:21:E9:90:F6:F5
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Aug 17 21:06:33 2014
+    Last       : Sun Aug 17 21:06:33 2014
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 27648 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1 packets
+               Sun Aug 17 21:06:33 2014
+Network 2: BSSID 00:26:62:61:4F:21
+ Manuf      : Actionte
+ First      : Sun Aug 17 20:58:07 2014
+ Last       : Sun Aug 17 21:06:49 2014
+ Type       : infrastructure
+ BSSID      : 00:26:62:61:4F:21
+   SSID 1
+    Type       : Beacon
+    SSID       : "OPOS3" 
+    First      : Sun Aug 17 20:58:07 2014
+    Last       : Sun Aug 17 21:06:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 1374
+    Country    : US 
+     Chan Range: 1-11 27 dBm
+    Encryption : WEP
+ Channel    : 10
+ Frequency  : 2412 - 6 packets, 0.39%
+ Frequency  : 2417 - 33 packets, 2.13%
+ Frequency  : 2422 - 12 packets, 0.77%
+ Frequency  : 2427 - 29 packets, 1.87%
+ Frequency  : 2447 - 147 packets, 9.48%
+ Frequency  : 2452 - 330 packets, 21.29%
+ Frequency  : 2457 - 168 packets, 10.84%
+ Frequency  : 2462 - 286 packets, 18.45%
+ Frequency  : 27648 - 11 packets, 0.71%
+ Frequency  : 28928 - 23 packets, 1.48%
+ Frequency  : 30208 - 5 packets, 0.32%
+ Frequency  : 31488 - 17 packets, 1.10%
+ Frequency  : 36608 - 68 packets, 4.39%
+ Frequency  : 37888 - 165 packets, 10.65%
+ Frequency  : 39168 - 93 packets, 6.00%
+ Frequency  : 40448 - 157 packets, 10.13%
+ Max Seen   : 48000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 1374
+ Data       : 176
+ Crypt      : 176
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1550
+ Datasize   : 51361
+ Last BSSTS : 978360934784
+    Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1550 packets
+              Sun Aug 17 21:06:49 2014
+ Client 1: MAC 00:0C:8A:9B:83:96
+  Manuf      : Bose
+  First      : Sun Aug 17 20:58:11 2014
+  Last       : Sun Aug 17 21:06:11 2014
+  Type       : From Distribution
+  MAC        : 00:0C:8A:9B:83:96
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 1.16%
+  Frequency  : 2447 - 9 packets, 10.47%
+  Frequency  : 2452 - 20 packets, 23.26%
+  Frequency  : 2457 - 10 packets, 11.63%
+  Frequency  : 2462 - 10 packets, 11.63%
+  Frequency  : 27648 - 1 packets, 1.16%
+  Frequency  : 36608 - 2 packets, 2.33%
+  Frequency  : 37888 - 16 packets, 18.60%
+  Frequency  : 39168 - 2 packets, 2.33%
+  Frequency  : 40448 - 15 packets, 17.44%
+  Max Seen   : 48000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 86
+  Crypt      : 86
+  Fragments  : 0
+  Retries    : 0
+  Total      : 86
+  Datasize   : 35835
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 86 packets
+               Sun Aug 17 21:06:11 2014
+ Client 2: MAC 00:21:E9:90:F6:F5
+  Manuf      : Apple
+  First      : Sun Aug 17 21:06:35 2014
+  Last       : Sun Aug 17 21:06:39 2014
+  Type       : From Distribution
+  MAC        : 00:21:E9:90:F6:F5
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 8.33%
+  Frequency  : 2452 - 1 packets, 8.33%
+  Frequency  : 2457 - 3 packets, 25.00%
+  Frequency  : 2462 - 1 packets, 8.33%
+  Frequency  : 31488 - 1 packets, 8.33%
+  Frequency  : 37888 - 3 packets, 25.00%
+  Frequency  : 40448 - 2 packets, 16.67%
+  Max Seen   : 48000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 12
+  Crypt      : 12
+  Fragments  : 0
+  Retries    : 0
+  Total      : 12
+  Datasize   : 1420
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 12 packets
+               Sun Aug 17 21:06:39 2014
+ Client 3: MAC 00:26:62:61:4F:1C
+  Manuf      : Actionte
+  First      : Sun Aug 17 20:58:35 2014
+  Last       : Sun Aug 17 21:05:06 2014
+  Type       : From Distribution
+  MAC        : 00:26:62:61:4F:1C
+  Channel    : 0
+  Frequency  : 2417 - 2 packets, 4.65%
+  Frequency  : 2447 - 8 packets, 18.60%
+  Frequency  : 2452 - 8 packets, 18.60%
+  Frequency  : 2457 - 7 packets, 16.28%
+  Frequency  : 2462 - 7 packets, 16.28%
+  Frequency  : 36608 - 4 packets, 9.30%
+  Frequency  : 37888 - 2 packets, 4.65%
+  Frequency  : 39168 - 3 packets, 6.98%
+  Frequency  : 40448 - 2 packets, 4.65%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 43
+  Crypt      : 43
+  Fragments  : 0
+  Retries    : 0
+  Total      : 43
+  Datasize   : 2960
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 43 packets
+               Sun Aug 17 21:05:06 2014
+ Client 4: MAC 00:26:62:61:4F:21
+  Manuf      : Actionte
+  First      : Sun Aug 17 20:58:07 2014
+  Last       : Sun Aug 17 21:06:49 2014
+  Type       : From Distribution
+  MAC        : 00:26:62:61:4F:21
+  Channel    : 10
+  Frequency  : 2412 - 5 packets, 0.36%
+  Frequency  : 2417 - 29 packets, 2.11%
+  Frequency  : 2422 - 12 packets, 0.87%
+  Frequency  : 2427 - 28 packets, 2.04%
+  Frequency  : 2447 - 126 packets, 9.17%
+  Frequency  : 2452 - 297 packets, 21.62%
+  Frequency  : 2457 - 147 packets, 10.70%
+  Frequency  : 2462 - 260 packets, 18.92%
+  Frequency  : 27648 - 9 packets, 0.66%
+  Frequency  : 28928 - 23 packets, 1.67%
+  Frequency  : 30208 - 5 packets, 0.36%
+  Frequency  : 31488 - 16 packets, 1.16%
+  Frequency  : 36608 - 61 packets, 4.44%
+  Frequency  : 37888 - 140 packets, 10.19%
+  Frequency  : 39168 - 82 packets, 5.97%
+  Frequency  : 40448 - 134 packets, 9.75%
+  Max Seen   : 48000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 1374
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1374
+  Datasize   : 0
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1374 packets
+               Sun Aug 17 21:06:49 2014
+ Client 5: MAC 10:BF:48:EB:BC:47
+  Manuf      : AsustekC
+  First      : Sun Aug 17 20:59:11 2014
+  Last       : Sun Aug 17 20:59:11 2014
+  Type       : From Distribution
+  MAC        : 10:BF:48:EB:BC:47
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 197
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1 packets
+               Sun Aug 17 20:59:11 2014
+ Client 6: MAC 14:99:E2:C3:26:F8
+  Manuf      : Unknown
+  First      : Sun Aug 17 21:00:37 2014
+  Last       : Sun Aug 17 21:01:46 2014
+  Type       : From Distribution
+  MAC        : 14:99:E2:C3:26:F8
+  Channel    : 0
+  Frequency  : 2452 - 1 packets, 16.67%
+  Frequency  : 2462 - 1 packets, 16.67%
+  Frequency  : 27648 - 1 packets, 16.67%
+  Frequency  : 36608 - 1 packets, 16.67%
+  Frequency  : 37888 - 1 packets, 16.67%
+  Frequency  : 40448 - 1 packets, 16.67%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 6
+  Crypt      : 6
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 868
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 6 packets
+               Sun Aug 17 21:01:46 2014
+ Client 7: MAC 68:A8:6D:05:98:CC
+  Manuf      : Apple
+  First      : Sun Aug 17 20:58:19 2014
+  Last       : Sun Aug 17 20:58:24 2014
+  Type       : From Distribution
+  MAC        : 68:A8:6D:05:98:CC
+  Channel    : 0
+  Frequency  : 2447 - 2 packets, 66.67%
+  Frequency  : 2462 - 1 packets, 33.33%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 386
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 3 packets
+               Sun Aug 17 20:58:24 2014
+ Client 8: MAC 70:7E:43:DB:7D:BA
+  Manuf      : Motorola
+  First      : Sun Aug 17 20:58:12 2014
+  Last       : Sun Aug 17 21:06:31 2014
+  Type       : From Distribution
+  MAC        : 70:7E:43:DB:7D:BA
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 4.76%
+  Frequency  : 2427 - 1 packets, 4.76%
+  Frequency  : 2447 - 1 packets, 4.76%
+  Frequency  : 2452 - 3 packets, 14.29%
+  Frequency  : 2457 - 1 packets, 4.76%
+  Frequency  : 2462 - 4 packets, 19.05%
+  Frequency  : 37888 - 3 packets, 14.29%
+  Frequency  : 39168 - 4 packets, 19.05%
+  Frequency  : 40448 - 3 packets, 14.29%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 21
+  Crypt      : 21
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 9342
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 21 packets
+               Sun Aug 17 21:06:31 2014
+ Client 9: MAC A0:1D:48:C4:3C:96
+  Manuf      : Unknown
+  First      : Sun Aug 17 20:58:47 2014
+  Last       : Sun Aug 17 21:02:56 2014
+  Type       : From Distribution
+  MAC        : A0:1D:48:C4:3C:96
+  Channel    : 0
+  Frequency  : 2447 - 1 packets, 50.00%
+  Frequency  : 39168 - 1 packets, 50.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 172
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 2 packets
+               Sun Aug 17 21:02:56 2014
+ Client 10: MAC B0:9F:BA:75:BA:39
+  Manuf      : Unknown
+  First      : Sun Aug 17 21:05:07 2014
+  Last       : Sun Aug 17 21:05:07 2014
+  Type       : From Distribution
+  MAC        : B0:9F:BA:75:BA:39
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 80
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1 packets
+               Sun Aug 17 21:05:07 2014
+ Client 11: MAC D4:BE:D9:8C:8D:61
+  Manuf      : Dell
+  First      : Sun Aug 17 21:02:35 2014
+  Last       : Sun Aug 17 21:02:35 2014
+  Type       : From Distribution
+  MAC        : D4:BE:D9:8C:8D:61
+  Channel    : 0
+  Frequency  : 39168 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 101
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 1 packets
+               Sun Aug 17 21:02:35 2014
+Network 3: BSSID B0:9F:BA:75:BA:39
+ Manuf      : Unknown
+ First      : Sun Aug 17 20:59:31 2014
+ Last       : Sun Aug 17 21:04:12 2014
+ Type       : probe
+ BSSID      : B0:9F:BA:75:BA:39
+ Channel    : 0
+ Frequency  : 2417 - 1 packets, 12.50%
+ Frequency  : 2437 - 4 packets, 50.00%
+ Frequency  : 2452 - 1 packets, 12.50%
+ Frequency  : 2457 - 1 packets, 12.50%
+ Frequency  : 34048 - 1 packets, 12.50%
+ Max Seen   : 5000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 8 packets
+              Sun Aug 17 21:04:12 2014
+ Client 1: MAC B0:9F:BA:75:BA:39
+  Manuf      : Unknown
+  First      : Sun Aug 17 20:59:31 2014
+  Last       : Sun Aug 17 21:04:12 2014
+  Type       : To Distribution
+  MAC        : B0:9F:BA:75:BA:39
+   SSID 1
+    Type       : Probe Request
+    SSID       : OPOS3
+    First      : Sun Aug 17 21:04:12 2014
+    Last       : Sun Aug 17 21:04:12 2014
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 12.50%
+  Frequency  : 2437 - 4 packets, 50.00%
+  Frequency  : 2452 - 1 packets, 12.50%
+  Frequency  : 2457 - 1 packets, 12.50%
+  Frequency  : 34048 - 1 packets, 12.50%
+  Max Seen   : 5000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 8 packets
+               Sun Aug 17 21:04:12 2014
+Network 4: BSSID D0:23:DB:A8:66:9B
+ Manuf      : Apple
+ First      : Sun Aug 17 20:58:52 2014
+ Last       : Sun Aug 17 21:06:42 2014
+ Type       : probe
+ BSSID      : D0:23:DB:A8:66:9B
+ Channel    : 0
+ Frequency  : 2417 - 1 packets, 2.08%
+ Frequency  : 2437 - 2 packets, 4.17%
+ Frequency  : 2442 - 2 packets, 4.17%
+ Frequency  : 2447 - 4 packets, 8.33%
+ Frequency  : 2452 - 13 packets, 27.08%
+ Frequency  : 2457 - 7 packets, 14.58%
+ Frequency  : 28928 - 3 packets, 6.25%
+ Frequency  : 34048 - 1 packets, 2.08%
+ Frequency  : 35328 - 3 packets, 6.25%
+ Frequency  : 36608 - 3 packets, 6.25%
+ Frequency  : 37888 - 4 packets, 8.33%
+ Frequency  : 39168 - 4 packets, 8.33%
+ Frequency  : 40448 - 1 packets, 2.08%
+ Max Seen   : 48000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 48
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 48
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 48 packets
+              Sun Aug 17 21:06:42 2014
+ Client 1: MAC D0:23:DB:A8:66:9B
+  Manuf      : Apple
+  First      : Sun Aug 17 20:58:52 2014
+  Last       : Sun Aug 17 21:06:42 2014
+  Type       : To Distribution
+  MAC        : D0:23:DB:A8:66:9B
+   SSID 1
+    Type       : Probe Request
+    SSID       : OPOS3
+    First      : Sun Aug 17 21:06:42 2014
+    Last       : Sun Aug 17 21:06:42 2014
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 2.08%
+  Frequency  : 2437 - 2 packets, 4.17%
+  Frequency  : 2442 - 2 packets, 4.17%
+  Frequency  : 2447 - 4 packets, 8.33%
+  Frequency  : 2452 - 13 packets, 27.08%
+  Frequency  : 2457 - 7 packets, 14.58%
+  Frequency  : 28928 - 3 packets, 6.25%
+  Frequency  : 34048 - 1 packets, 2.08%
+  Frequency  : 35328 - 3 packets, 6.25%
+  Frequency  : 36608 - 3 packets, 6.25%
+  Frequency  : 37888 - 4 packets, 8.33%
+  Frequency  : 39168 - 4 packets, 8.33%
+  Frequency  : 40448 - 1 packets, 2.08%
+  Max Seen   : 48000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 48
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 48
+  Datasize   : 0
+     Seen By : wlan0mon (wlan0mon) b64ef2f2-2672-11e4-99e5-5905352b2c03 48 packets
+               Sun Aug 17 21:06:42 2014
