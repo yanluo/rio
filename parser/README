@@ -1,0 +1,7 @@
+1. parser.py is the executable file. Use "python parser.py" to execute the file.
+
+2. In line 27, the path should be changed according to the real directory.
+
+3. From line 127-129, date should be changed according to the real date we need in t1, t2, t3.
+
+4. From line 147-149, the print infomation should be changed.
