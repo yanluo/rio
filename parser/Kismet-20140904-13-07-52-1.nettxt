@@ -1,0 +1,2585 @@
+Kismet (http://www.kismetwireless.net)
+Thu Sep  4 13:07:51 2014 - Kismet 2013.03.R0
+-----------------
+
+Network 1: BSSID 00:0B:86:10:1A:22
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:15 2014
+ Type       : data
+ BSSID      : 00:0B:86:10:1A:22
+ Channel    : 0
+ Frequency  : 2457 - 1 packets, 33.33%
+ Frequency  : 2462 - 1 packets, 33.33%
+ Frequency  : 2467 - 1 packets, 33.33%
+ Max Seen   : 1000
+ LLC        : 0
+ Data       : 3
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 72
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+              Thu Sep  4 13:08:15 2014
+ Client 1: MAC CC:3A:61:07:8F:89
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:15 2014
+  Type       : To Distribution
+  MAC        : CC:3A:61:07:8F:89
+  Channel    : 0
+  Frequency  : 2457 - 1 packets, 33.33%
+  Frequency  : 2462 - 1 packets, 33.33%
+  Frequency  : 2467 - 1 packets, 33.33%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 72
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+               Thu Sep  4 13:08:15 2014
+Network 2: BSSID 00:0B:86:10:1B:00
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:45 2014
+ Last       : Thu Sep  4 13:08:45 2014
+ Type       : data
+ BSSID      : 00:0B:86:10:1B:00
+ Channel    : 0
+ Frequency  : 2462 - 7 packets, 100.00%
+ Max Seen   : 5000
+ LLC        : 0
+ Data       : 7
+ Crypt      : 7
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 737
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 7 packets
+              Thu Sep  4 13:08:45 2014
+ Client 1: MAC 80:00:6E:DF:BA:EB
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:45 2014
+  Last       : Thu Sep  4 13:08:45 2014
+  Type       : To Distribution
+  MAC        : 80:00:6E:DF:BA:EB
+  Channel    : 0
+  Frequency  : 2462 - 7 packets, 100.00%
+  Max Seen   : 5000
+  LLC        : 0
+  Data       : 7
+  Crypt      : 7
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 737
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 7 packets
+               Thu Sep  4 13:08:45 2014
+Network 3: BSSID 00:0B:86:10:1C:20
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:28 2014
+ Last       : Thu Sep  4 13:08:45 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:10:1C:20
+   SSID 1
+    Type       : Beacon
+    SSID       : "uml-admin" 
+    First      : Thu Sep  4 13:08:28 2014
+    Last       : Thu Sep  4 13:08:45 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 4
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 4 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : 4373709185
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+              Thu Sep  4 13:08:45 2014
+ Client 1: MAC 00:0B:86:10:1C:20
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:28 2014
+  Last       : Thu Sep  4 13:08:45 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:10:1C:20
+  Channel    : 11
+  Frequency  : 2462 - 4 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+               Thu Sep  4 13:08:45 2014
+Network 4: BSSID 00:0B:86:10:1C:22
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:10:1C:22
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 19
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 19 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 19
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 19
+ Datasize   : 0
+ Last BSSTS : 4357427896
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:0B:86:10:1C:22
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:10:1C:22
+  Channel    : 11
+  Frequency  : 2462 - 19 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 19
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+               Thu Sep  4 13:08:51 2014
+Network 5: BSSID 00:0B:86:10:1C:23
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:28 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:10:1C:23
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:28 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 4
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 5 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 4
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 98
+ Last BSSTS : 4373710428
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:04:96:7D:E5:8C
+  Manuf      : ExtremeN
+  First      : Thu Sep  4 13:08:28 2014
+  Last       : Thu Sep  4 13:08:28 2014
+  Type       : From Distribution
+  MAC        : 00:04:96:7D:E5:8C
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:28 2014
+ Client 2: MAC 00:0B:86:10:1C:23
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:28 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:10:1C:23
+  Channel    : 11
+  Frequency  : 2462 - 4 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+               Thu Sep  4 13:08:51 2014
+Network 6: BSSID 00:0B:86:12:3C:60
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:3C:60
+   SSID 1
+    Type       : Beacon
+    SSID       : "uml-admin" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 20
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 20 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 20
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 20
+ Datasize   : 0
+ Last BSSTS : 15449702785
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 20 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC 00:0B:86:12:3C:60
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:3C:60
+  Channel    : 6
+  Frequency  : 2437 - 20 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 20
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 20
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 20 packets
+               Thu Sep  4 13:08:49 2014
+Network 7: BSSID 00:0B:86:12:3C:62
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:50 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:3C:62
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:50 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 22
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 20 packets, 90.91%
+ Frequency  : 2442 - 2 packets, 9.09%
+ Max Seen   : 1000
+ LLC        : 22
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 22
+ Datasize   : 0
+ Last BSSTS : 15449809266
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 22 packets
+              Thu Sep  4 13:08:50 2014
+ Client 1: MAC 00:0B:86:12:3C:62
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:50 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:3C:62
+  Channel    : 6
+  Frequency  : 2437 - 20 packets, 90.91%
+  Frequency  : 2442 - 2 packets, 9.09%
+  Max Seen   : 1000
+  LLC        : 22
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 22
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 22 packets
+               Thu Sep  4 13:08:50 2014
+Network 8: BSSID 00:0B:86:12:3C:63
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:3C:63
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 22
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 28 packets, 100.00%
+ Max Seen   : 24000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 22
+ Data       : 6
+ Crypt      : 4
+ Fragments  : 0
+ Retries    : 0
+ Total      : 28
+ Datasize   : 442
+ Last BSSTS : 15449717079
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 28 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC 00:04:96:7D:E5:8C
+  Manuf      : ExtremeN
+  First      : Thu Sep  4 13:08:15 2014
+  Last       : Thu Sep  4 13:08:43 2014
+  Type       : From Distribution
+  MAC        : 00:04:96:7D:E5:8C
+  Channel    : 0
+  Frequency  : 2437 - 4 packets, 100.00%
+  Max Seen   : 24000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 394
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+               Thu Sep  4 13:08:43 2014
+ Client 2: MAC 00:0B:86:12:3C:63
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:3C:63
+  Channel    : 6
+  Frequency  : 2437 - 22 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 22
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 22
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 22 packets
+               Thu Sep  4 13:08:49 2014
+ Client 3: MAC 9C:4E:36:13:C1:A0
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:15 2014
+  Last       : Thu Sep  4 13:08:43 2014
+  Type       : To Distribution
+  MAC        : 9C:4E:36:13:C1:A0
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 48
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:43 2014
+Network 9: BSSID 00:0B:86:12:3E:43
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:13 2014
+ Last       : Thu Sep  4 13:08:13 2014
+ Type       : data
+ BSSID      : 00:0B:86:12:3E:43
+ Channel    : 0
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 0
+ Data       : 1
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 24
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:13 2014
+ Client 1: MAC 24:FD:52:9A:8C:59
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:13 2014
+  Last       : Thu Sep  4 13:08:13 2014
+  Type       : To Distribution
+  MAC        : 24:FD:52:9A:8C:59
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 24
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:13 2014
+Network 10: BSSID 00:0B:86:12:3F:42
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:22 2014
+ Last       : Thu Sep  4 13:08:45 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:3F:42
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:22 2014
+    Last       : Thu Sep  4 13:08:45 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 2
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : 4480615781
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+              Thu Sep  4 13:08:45 2014
+ Client 1: MAC 00:0B:86:12:3F:42
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:22 2014
+  Last       : Thu Sep  4 13:08:45 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:3F:42
+  Channel    : 11
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:45 2014
+Network 11: BSSID 00:0B:86:12:3F:43
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:35 2014
+ Last       : Thu Sep  4 13:08:35 2014
+ Type       : data
+ BSSID      : 00:0B:86:12:3F:43
+ Channel    : 0
+ Frequency  : 2467 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 0
+ Data       : 1
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 24
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:35 2014
+ Client 1: MAC E0:CA:94:96:A0:17
+  Manuf      : AskeyCom
+  First      : Thu Sep  4 13:08:35 2014
+  Last       : Thu Sep  4 13:08:35 2014
+  Type       : To Distribution
+  MAC        : E0:CA:94:96:A0:17
+  Channel    : 0
+  Frequency  : 2467 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 24
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:35 2014
+Network 12: BSSID 00:0B:86:12:41:62
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:41:62
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 25
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 23 packets, 92.00%
+ Frequency  : 2467 - 2 packets, 8.00%
+ Max Seen   : 1000
+ LLC        : 25
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 25
+ Datasize   : 0
+ Last BSSTS : 1161731453
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 25 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:0B:86:12:41:62
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:41:62
+  Channel    : 11
+  Frequency  : 2462 - 23 packets, 92.00%
+  Frequency  : 2467 - 2 packets, 8.00%
+  Max Seen   : 1000
+  LLC        : 25
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 25
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 25 packets
+               Thu Sep  4 13:08:51 2014
+Network 13: BSSID 00:0B:86:12:41:63
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:45 2014
+ Last       : Thu Sep  4 13:08:45 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:41:63
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:45 2014
+    Last       : Thu Sep  4 13:08:45 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 1
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 1 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 1195214496
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:45 2014
+ Client 1: MAC 00:0B:86:12:41:63
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:45 2014
+  Last       : Thu Sep  4 13:08:45 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:41:63
+  Channel    : 11
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:45 2014
+Network 14: BSSID 00:0B:86:12:48:60
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:48:60
+   SSID 1
+    Type       : Beacon
+    SSID       : "uml-admin" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 14
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 14 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 14
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 14
+ Datasize   : 0
+ Last BSSTS : 1162137985
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 14 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:0B:86:12:48:60
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:48:60
+  Channel    : 11
+  Frequency  : 2462 - 14 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 14
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 14
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 14 packets
+               Thu Sep  4 13:08:51 2014
+Network 15: BSSID 00:0B:86:12:48:62
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:48:62
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 21
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 20 packets, 95.24%
+ Frequency  : 2467 - 1 packets, 4.76%
+ Max Seen   : 1000
+ LLC        : 21
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 21
+ Datasize   : 0
+ Last BSSTS : 1162138296
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 21 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:0B:86:12:48:62
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:48:62
+  Channel    : 11
+  Frequency  : 2462 - 20 packets, 95.24%
+  Frequency  : 2467 - 1 packets, 4.76%
+  Max Seen   : 1000
+  LLC        : 21
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 21 packets
+               Thu Sep  4 13:08:51 2014
+Network 16: BSSID 00:0B:86:12:48:63
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 00:0B:86:12:48:63
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 11
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 11 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 11
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 11
+ Datasize   : 0
+ Last BSSTS : 1162139228
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 11 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 00:0B:86:12:48:63
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 00:0B:86:12:48:63
+  Channel    : 11
+  Frequency  : 2462 - 11 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 11
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 11
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 11 packets
+               Thu Sep  4 13:08:51 2014
+Network 17: BSSID 00:24:6C:D0:DC:40
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:50 2014
+ Type       : infrastructure
+ BSSID      : 00:24:6C:D0:DC:40
+   SSID 1
+    Type       : Beacon
+    SSID       : "uml-admin" 
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:50 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 3
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 7
+ Frequency  : 2442 - 3 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : 32264192384
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+              Thu Sep  4 13:08:50 2014
+ Client 1: MAC 00:24:6C:D0:DC:40
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:50 2014
+  Type       : From Distribution
+  MAC        : 00:24:6C:D0:DC:40
+  Channel    : 7
+  Frequency  : 2442 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+               Thu Sep  4 13:08:50 2014
+Network 18: BSSID 00:24:6C:D0:DC:42
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:17 2014
+ Last       : Thu Sep  4 13:08:50 2014
+ Type       : infrastructure
+ BSSID      : 00:24:6C:D0:DC:42
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:17 2014
+    Last       : Thu Sep  4 13:08:50 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 16
+    Encryption : None
+ Channel    : 7
+ Frequency  : 2442 - 15 packets, 93.75%
+ Frequency  : 2447 - 1 packets, 6.25%
+ Max Seen   : 1000
+ LLC        : 16
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 16
+ Datasize   : 0
+ Last BSSTS : 32269312922
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 16 packets
+              Thu Sep  4 13:08:50 2014
+ Client 1: MAC 00:24:6C:D0:DC:42
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:17 2014
+  Last       : Thu Sep  4 13:08:50 2014
+  Type       : From Distribution
+  MAC        : 00:24:6C:D0:DC:42
+  Channel    : 7
+  Frequency  : 2442 - 15 packets, 93.75%
+  Frequency  : 2447 - 1 packets, 6.25%
+  Max Seen   : 1000
+  LLC        : 16
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 16
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 16 packets
+               Thu Sep  4 13:08:50 2014
+Network 19: BSSID 00:24:6C:D0:DC:43
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:11 2014
+ Last       : Thu Sep  4 13:08:50 2014
+ Type       : infrastructure
+ BSSID      : 00:24:6C:D0:DC:43
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:11 2014
+    Last       : Thu Sep  4 13:08:50 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 2
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 7
+ Frequency  : 2442 - 2 packets, 100.00%
+ Max Seen   : 11000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : 32263987855
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+              Thu Sep  4 13:08:50 2014
+ Client 1: MAC 00:24:6C:D0:DC:43
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:11 2014
+  Last       : Thu Sep  4 13:08:50 2014
+  Type       : From Distribution
+  MAC        : 00:24:6C:D0:DC:43
+  Channel    : 7
+  Frequency  : 2442 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:50 2014
+Network 20: BSSID 00:24:6C:D3:79:21
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:08 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 00:24:6C:D3:79:21
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:08 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 24
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 59 packets, 95.16%
+ Frequency  : 2417 - 3 packets, 4.84%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 24
+ Data       : 38
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 62
+ Datasize   : 5221
+ Last BSSTS : 5511270784
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 62 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 00:04:96:7D:E5:8C
+  Manuf      : ExtremeN
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:30 2014
+  Type       : From Distribution
+  MAC        : 00:04:96:7D:E5:8C
+  Channel    : 0
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 5
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 396
+  IP Type    : UDP/TCP
+  IP Block   : 10.253.82.61
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+               Thu Sep  4 13:08:30 2014
+ Client 2: MAC 00:04:96:7E:0F:90
+  Manuf      : ExtremeN
+  First      : Thu Sep  4 13:08:41 2014
+  Last       : Thu Sep  4 13:08:41 2014
+  Type       : From Distribution
+  MAC        : 00:04:96:7E:0F:90
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 78
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:41 2014
+ Client 3: MAC 00:24:6C:D3:79:21
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 00:24:6C:D3:79:21
+  Channel    : 1
+  Frequency  : 2412 - 24 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 24
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 24
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 24 packets
+               Thu Sep  4 13:08:47 2014
+ Client 4: MAC 08:11:96:B0:91:40
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:41 2014
+  Last       : Thu Sep  4 13:08:41 2014
+  Type       : From Distribution
+  MAC        : 08:11:96:B0:91:40
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 716
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:41 2014
+ Client 5: MAC 08:3E:8E:AE:34:D3
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:24 2014
+  Last       : Thu Sep  4 13:08:24 2014
+  Type       : From Distribution
+  MAC        : 08:3E:8E:AE:34:D3
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 193
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:24 2014
+ Client 6: MAC 1C:B0:94:72:E7:C3
+  Manuf      : Htc
+  First      : Thu Sep  4 13:08:30 2014
+  Last       : Thu Sep  4 13:08:30 2014
+  Type       : From Distribution
+  MAC        : 1C:B0:94:72:E7:C3
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 240
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:30 2014
+ Client 7: MAC 24:0A:64:F5:5F:36
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:41 2014
+  Last       : Thu Sep  4 13:08:41 2014
+  Type       : From Distribution
+  MAC        : 24:0A:64:F5:5F:36
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 82
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:41 2014
+ Client 8: MAC 40:6F:2A:67:8E:71
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:19 2014
+  Last       : Thu Sep  4 13:08:19 2014
+  Type       : From Distribution
+  MAC        : 40:6F:2A:67:8E:71
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 763
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:19 2014
+ Client 9: MAC 68:5D:43:F8:1C:63
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:24 2014
+  Type       : From Distribution
+  MAC        : 68:5D:43:F8:1C:63
+  Channel    : 0
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 564
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+               Thu Sep  4 13:08:24 2014
+ Client 10: MAC 7C:7A:91:C0:FF:9E
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:19 2014
+  Last       : Thu Sep  4 13:08:19 2014
+  Type       : From Distribution
+  MAC        : 7C:7A:91:C0:FF:9E
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 110
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:19 2014
+ Client 11: MAC 80:E6:50:1E:1C:2A
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:41 2014
+  Last       : Thu Sep  4 13:08:41 2014
+  Type       : From Distribution
+  MAC        : 80:E6:50:1E:1C:2A
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 326
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:41 2014
+ Client 12: MAC 84:A6:C8:17:C8:6B
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:19 2014
+  Last       : Thu Sep  4 13:08:30 2014
+  Type       : From Distribution
+  MAC        : 84:A6:C8:17:C8:6B
+  Channel    : 0
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 5
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 599
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+               Thu Sep  4 13:08:30 2014
+ Client 13: MAC 88:1F:A1:12:EE:5C
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:24 2014
+  Last       : Thu Sep  4 13:08:24 2014
+  Type       : From Distribution
+  MAC        : 88:1F:A1:12:EE:5C
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 560
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:24 2014
+ Client 14: MAC 8C:70:5A:6A:BA:38
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:41 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 8C:70:5A:6A:BA:38
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 238
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:47 2014
+ Client 15: MAC CC:3A:61:07:8F:89
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:19 2014
+  Last       : Thu Sep  4 13:08:30 2014
+  Type       : To Distribution
+  MAC        : CC:3A:61:07:8F:89
+  Channel    : 0
+  Frequency  : 2412 - 9 packets, 75.00%
+  Frequency  : 2417 - 3 packets, 25.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 12
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 12
+  Datasize   : 356
+  IP Type    : UDP/TCP
+  IP Block   : 10.253.87.14
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 12 packets
+               Thu Sep  4 13:08:30 2014
+Network 21: BSSID 00:24:6C:D3:79:23
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:47 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 00:24:6C:D3:79:23
+   SSID 1
+    Type       : Probe Response
+    SSID       : "eduroam" 
+    First      : Thu Sep  4 13:08:47 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Packets    : 2
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 9 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 2
+ Data       : 7
+ Crypt      : 7
+ Fragments  : 0
+ Retries    : 0
+ Total      : 9
+ Datasize   : 696
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 9 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 00:04:96:7D:E5:8C
+  Manuf      : ExtremeN
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 00:04:96:7D:E5:8C
+  Channel    : 0
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 5
+  Crypt      : 5
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 518
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+               Thu Sep  4 13:08:47 2014
+ Client 2: MAC 00:24:6C:D3:79:23
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : Unknown
+  MAC        : 00:24:6C:D3:79:23
+  Channel    : 1
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 2
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 78
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 3 packets
+               Thu Sep  4 13:08:47 2014
+ Client 3: MAC 10:A5:D0:E5:96:A7
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : To Distribution
+  MAC        : 10:A5:D0:E5:96:A7
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 100
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:47 2014
+Network 22: BSSID 00:25:9C:37:F4:05
+ Manuf      : Cisco-Li
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : 00:25:9C:37:F4:05
+   SSID 1
+    Type       : Beacon
+    SSID       : "AETC" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 21
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 21 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 21
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 21
+ Datasize   : 0
+ Last BSSTS : 382714475901312
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 21 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC 00:25:9C:37:F4:05
+  Manuf      : Cisco-Li
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : 00:25:9C:37:F4:05
+  Channel    : 6
+  Frequency  : 2437 - 21 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 21
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 21 packets
+               Thu Sep  4 13:08:49 2014
+Network 23: BSSID 02:AA:4B:62:E0:F9
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:22 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 02:AA:4B:62:E0:F9
+   SSID 1
+    Type       : Beacon
+    SSID       : "FastPenguins-guest" 
+    First      : Thu Sep  4 13:08:22 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 8
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : 235785119196
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 02:AA:4B:62:E0:F9
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:22 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 02:AA:4B:62:E0:F9
+  Channel    : 11
+  Frequency  : 2462 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+               Thu Sep  4 13:08:51 2014
+Network 24: BSSID 08:86:3B:E2:FC:24
+ Manuf      : BelkinIn
+ First      : Thu Sep  4 13:08:08 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 08:86:3B:E2:FC:24
+   SSID 1
+    Type       : Beacon
+    SSID       : "TheMuseaum24" 
+    First      : Thu Sep  4 13:08:08 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 18
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 19 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 18
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 19
+ Datasize   : 78
+ Last BSSTS : 196653876512
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 08:86:3B:E2:FC:24
+  Manuf      : BelkinIn
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 08:86:3B:E2:FC:24
+  Channel    : 1
+  Frequency  : 2412 - 19 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 18
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 78
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+               Thu Sep  4 13:08:47 2014
+Network 25: BSSID 12:CF:E2:E4:66:80
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:15 2014
+ Last       : Thu Sep  4 13:08:15 2014
+ Type       : infrastructure
+ BSSID      : 12:CF:E2:E4:66:80
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Thu Sep  4 13:08:15 2014
+    Last       : Thu Sep  4 13:08:15 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 1
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 1019517647769
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:15 2014
+ Client 1: MAC 12:CF:E2:E4:66:80
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:15 2014
+  Last       : Thu Sep  4 13:08:15 2014
+  Type       : From Distribution
+  MAC        : 12:CF:E2:E4:66:80
+  Channel    : 6
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:15 2014
+Network 26: BSSID 14:CF:E2:E4:66:80
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:15 2014
+ Last       : Thu Sep  4 13:08:15 2014
+ Type       : infrastructure
+ BSSID      : 14:CF:E2:E4:66:80
+   SSID 1
+    Type       : Beacon
+    SSID       : "HOME-6682" 
+    First      : Thu Sep  4 13:08:15 2014
+    Last       : Thu Sep  4 13:08:15 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 1
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 1019517645111
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:15 2014
+ Client 1: MAC 14:CF:E2:E4:66:80
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:15 2014
+  Last       : Thu Sep  4 13:08:15 2014
+  Type       : From Distribution
+  MAC        : 14:CF:E2:E4:66:80
+  Channel    : 6
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:15 2014
+Network 27: BSSID 18:AF:61:C8:62:C4
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:08 2014
+ Last       : Thu Sep  4 13:08:08 2014
+ Type       : probe
+ BSSID      : 18:AF:61:C8:62:C4
+ Channel    : 0
+ Frequency  : 2432 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:08 2014
+ Client 1: MAC 18:AF:61:C8:62:C4
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:08 2014
+  Type       : To Distribution
+  MAC        : 18:AF:61:C8:62:C4
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Thu Sep  4 13:08:08 2014
+    Last       : Thu Sep  4 13:08:08 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2432 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:08 2014
+Network 28: BSSID 20:AA:4B:62:E0:F8
+ Manuf      : Cisco-Li
+ First      : Thu Sep  4 13:08:22 2014
+ Last       : Thu Sep  4 13:08:45 2014
+ Type       : infrastructure
+ BSSID      : 20:AA:4B:62:E0:F8
+   SSID 1
+    Type       : Beacon
+    SSID       : "FastPenguins" 
+    First      : Thu Sep  4 13:08:22 2014
+    Last       : Thu Sep  4 13:08:45 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 5
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 11
+ Frequency  : 2462 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : 235785216499
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+              Thu Sep  4 13:08:45 2014
+ Client 1: MAC 20:AA:4B:62:E0:F8
+  Manuf      : Cisco-Li
+  First      : Thu Sep  4 13:08:22 2014
+  Last       : Thu Sep  4 13:08:45 2014
+  Type       : From Distribution
+  MAC        : 20:AA:4B:62:E0:F8
+  Channel    : 11
+  Frequency  : 2462 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+               Thu Sep  4 13:08:45 2014
+Network 29: BSSID 58:23:8C:33:88:7D
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:08 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 58:23:8C:33:88:7D
+   SSID 1
+    Type       : Beacon
+    SSID       : "HOME-887D" 
+    First      : Thu Sep  4 13:08:08 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 5
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 3
+ Crypt      : 3
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 468
+ Last BSSTS : 34434765189
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 1C:65:9D:9A:EE:38
+  Manuf      : LiteonTe
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 1C:65:9D:9A:EE:38
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 246
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:47 2014
+ Client 2: MAC 40:25:C2:3C:82:E8
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 40:25:C2:3C:82:E8
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 124
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:47 2014
+ Client 3: MAC 58:23:8C:33:88:7C
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:13 2014
+  Last       : Thu Sep  4 13:08:13 2014
+  Type       : From Distribution
+  MAC        : 58:23:8C:33:88:7C
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:13 2014
+ Client 4: MAC 58:23:8C:33:88:7D
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:08 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 58:23:8C:33:88:7D
+  Channel    : 1
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 5 packets
+               Thu Sep  4 13:08:47 2014
+Network 30: BSSID 5A:23:8C:33:88:7E
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:24 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 5A:23:8C:33:88:7E
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Thu Sep  4 13:08:24 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 4
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 4 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : 34451049036
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 5A:23:8C:33:88:7E
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:24 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 5A:23:8C:33:88:7E
+  Channel    : 1
+  Frequency  : 2412 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 4 packets
+               Thu Sep  4 13:08:47 2014
+Network 31: BSSID 6C:F3:7F:64:B3:62
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:34 2014
+ Last       : Thu Sep  4 13:08:51 2014
+ Type       : infrastructure
+ BSSID      : 6C:F3:7F:64:B3:62
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:34 2014
+    Last       : Thu Sep  4 13:08:51 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 8
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : 1887949722
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+              Thu Sep  4 13:08:51 2014
+ Client 1: MAC 6C:F3:7F:64:B3:62
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:34 2014
+  Last       : Thu Sep  4 13:08:51 2014
+  Type       : From Distribution
+  MAC        : 6C:F3:7F:64:B3:62
+  Channel    : 11
+  Frequency  : 2462 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+               Thu Sep  4 13:08:51 2014
+Network 32: BSSID 6C:F3:7F:AF:22:62
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:17 2014
+ Last       : Thu Sep  4 13:08:38 2014
+ Type       : data
+ BSSID      : 6C:F3:7F:AF:22:62
+ Channel    : 0
+ Frequency  : 2437 - 2 packets, 10.53%
+ Frequency  : 2442 - 17 packets, 89.47%
+ Max Seen   : 5000
+ LLC        : 0
+ Data       : 19
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 19
+ Datasize   : 1220
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+              Thu Sep  4 13:08:38 2014
+ Client 1: MAC E4:25:E7:6B:28:6C
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:17 2014
+  Last       : Thu Sep  4 13:08:38 2014
+  Type       : To Distribution
+  MAC        : E4:25:E7:6B:28:6C
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 10.53%
+  Frequency  : 2442 - 17 packets, 89.47%
+  Max Seen   : 5000
+  LLC        : 0
+  Data       : 19
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 1220
+  IP Type    : UDP/TCP
+  IP Block   : 10.253.74.89
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 19 packets
+               Thu Sep  4 13:08:38 2014
+Network 33: BSSID 6C:F3:7F:AF:22:63
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:22 2014
+ Last       : Thu Sep  4 13:08:22 2014
+ Type       : data
+ BSSID      : 6C:F3:7F:AF:22:63
+ Channel    : 0
+ Frequency  : 2442 - 1 packets, 100.00%
+ Max Seen   : 0
+ Carrier    : IEEE 802.11b+
+ Encoding   : PBCC
+ LLC        : 0
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 112
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:22 2014
+ Client 1: MAC F0:DC:E2:3C:24:F2
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:22 2014
+  Last       : Thu Sep  4 13:08:22 2014
+  Type       : To Distribution
+  MAC        : F0:DC:E2:3C:24:F2
+  Channel    : 0
+  Frequency  : 2442 - 1 packets, 100.00%
+  Max Seen   : 0
+  Carrier    : IEEE 802.11b+
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 112
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:22 2014
+Network 34: BSSID 6C:F3:7F:AF:28:22
+ Manuf      : ArubaNet
+ First      : Thu Sep  4 13:08:13 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 6C:F3:7F:AF:28:22
+   SSID 1
+    Type       : Beacon
+    SSID       : "UMassLowell" 
+    First      : Thu Sep  4 13:08:13 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 18
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 18 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 18
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 18
+ Datasize   : 0
+ Last BSSTS : 350106522
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 18 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 6C:F3:7F:AF:28:22
+  Manuf      : ArubaNet
+  First      : Thu Sep  4 13:08:13 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 6C:F3:7F:AF:28:22
+  Channel    : 1
+  Frequency  : 2412 - 18 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 18
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 18
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 18 packets
+               Thu Sep  4 13:08:47 2014
+Network 35: BSSID 88:F7:C7:D5:3F:2B
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:47 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 88:F7:C7:D5:3F:2B
+   SSID 1
+    Type       : Beacon
+    SSID       : "MarvelVN" 
+    First      : Thu Sep  4 13:08:47 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 1
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 34445312396
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 88:F7:C7:D5:3F:2B
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 88:F7:C7:D5:3F:2B
+  Channel    : 1
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:47 2014
+Network 36: BSSID 8A:F7:C7:D5:3F:2C
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:47 2014
+ Last       : Thu Sep  4 13:08:47 2014
+ Type       : infrastructure
+ BSSID      : 8A:F7:C7:D5:3F:2C
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Thu Sep  4 13:08:47 2014
+    Last       : Thu Sep  4 13:08:47 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 2
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 1
+ Frequency  : 2412 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : 34445314642
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+              Thu Sep  4 13:08:47 2014
+ Client 1: MAC 8A:F7:C7:D5:3F:2C
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:47 2014
+  Last       : Thu Sep  4 13:08:47 2014
+  Type       : From Distribution
+  MAC        : 8A:F7:C7:D5:3F:2C
+  Channel    : 1
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:47 2014
+Network 37: BSSID 90:72:40:E8:C9:A5
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:23 2014
+ Last       : Thu Sep  4 13:08:23 2014
+ Type       : probe
+ BSSID      : 90:72:40:E8:C9:A5
+ Channel    : 0
+ Frequency  : 2427 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:23 2014
+ Client 1: MAC 90:72:40:E8:C9:A5
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:23 2014
+  Last       : Thu Sep  4 13:08:23 2014
+  Type       : To Distribution
+  MAC        : 90:72:40:E8:C9:A5
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Thu Sep  4 13:08:23 2014
+    Last       : Thu Sep  4 13:08:23 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2427 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:23 2014
+Network 38: BSSID 92:87:7C:3C:04:90
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : 92:87:7C:3C:04:90
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 6
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 6 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 6
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 6
+ Datasize   : 0
+ Last BSSTS : 562035305403
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 6 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC 92:87:7C:3C:04:90
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : 92:87:7C:3C:04:90
+  Channel    : 6
+  Frequency  : 2437 - 6 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 6
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 6 packets
+               Thu Sep  4 13:08:49 2014
+Network 39: BSSID 94:87:7C:3C:04:90
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:43 2014
+ Type       : infrastructure
+ BSSID      : 94:87:7C:3C:04:90
+   SSID 1
+    Type       : Beacon
+    SSID       : "Kokomo" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:43 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 6
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 6 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 6
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 6
+ Datasize   : 0
+ Last BSSTS : 562035507564
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 6 packets
+              Thu Sep  4 13:08:43 2014
+ Client 1: MAC 94:87:7C:3C:04:90
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:43 2014
+  Type       : From Distribution
+  MAC        : 94:87:7C:3C:04:90
+  Channel    : 6
+  Frequency  : 2437 - 6 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 6
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 6 packets
+               Thu Sep  4 13:08:43 2014
+Network 40: BSSID 96:87:7C:3C:04:90
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:15 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : 96:87:7C:3C:04:90
+   SSID 1
+    Type       : Beacon
+    SSID       : "xfinitywifi" 
+    First      : Thu Sep  4 13:08:15 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 7
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 7 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 0
+ Last BSSTS : 562040734502
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 7 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC 96:87:7C:3C:04:90
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:15 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : 96:87:7C:3C:04:90
+  Channel    : 6
+  Frequency  : 2437 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 7 packets
+               Thu Sep  4 13:08:49 2014
+Network 41: BSSID 9C:4E:36:13:C1:A0
+ Manuf      : IntelCor
+ First      : Thu Sep  4 13:08:29 2014
+ Last       : Thu Sep  4 13:08:29 2014
+ Type       : probe
+ BSSID      : 9C:4E:36:13:C1:A0
+ Channel    : 0
+ Frequency  : 2427 - 1 packets, 50.00%
+ Frequency  : 2447 - 1 packets, 50.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+              Thu Sep  4 13:08:29 2014
+ Client 1: MAC 9C:4E:36:13:C1:A0
+  Manuf      : IntelCor
+  First      : Thu Sep  4 13:08:29 2014
+  Last       : Thu Sep  4 13:08:29 2014
+  Type       : To Distribution
+  MAC        : 9C:4E:36:13:C1:A0
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Thu Sep  4 13:08:29 2014
+    Last       : Thu Sep  4 13:08:29 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2427 - 1 packets, 50.00%
+  Frequency  : 2447 - 1 packets, 50.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:29 2014
+Network 42: BSSID CC:3A:61:07:8F:89
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:12 2014
+ Last       : Thu Sep  4 13:08:20 2014
+ Type       : probe
+ BSSID      : CC:3A:61:07:8F:89
+ Channel    : 0
+ Frequency  : 2417 - 1 packets, 50.00%
+ Frequency  : 2427 - 1 packets, 50.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+              Thu Sep  4 13:08:20 2014
+ Client 1: MAC CC:3A:61:07:8F:89
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:12 2014
+  Last       : Thu Sep  4 13:08:20 2014
+  Type       : To Distribution
+  MAC        : CC:3A:61:07:8F:89
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Thu Sep  4 13:08:12 2014
+    Last       : Thu Sep  4 13:08:12 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : UMassLowell
+    First      : Thu Sep  4 13:08:20 2014
+    Last       : Thu Sep  4 13:08:20 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 50.00%
+  Frequency  : 2427 - 1 packets, 50.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 2 packets
+               Thu Sep  4 13:08:20 2014
+Network 43: BSSID D8:9D:67:EA:EB:D5
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:38 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : D8:9D:67:EA:EB:D5
+   SSID 1
+    Type       : Beacon
+    SSID       : "HP-Print-D5-Officejet Pro 8600" 
+    First      : Thu Sep  4 13:08:38 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 8
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : 1193707417951
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC D8:9D:67:EA:EB:D5
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:38 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : D8:9D:67:EA:EB:D5
+  Channel    : 6
+  Frequency  : 2437 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 8 packets
+               Thu Sep  4 13:08:49 2014
+Network 44: BSSID DC:9B:9C:63:91:6F
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:34 2014
+ Last       : Thu Sep  4 13:08:34 2014
+ Type       : probe
+ BSSID      : DC:9B:9C:63:91:6F
+ Channel    : 0
+ Frequency  : 2442 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:34 2014
+ Client 1: MAC DC:9B:9C:63:91:6F
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:34 2014
+  Last       : Thu Sep  4 13:08:34 2014
+  Type       : To Distribution
+  MAC        : DC:9B:9C:63:91:6F
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Thu Sep  4 13:08:34 2014
+    Last       : Thu Sep  4 13:08:34 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2442 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:34 2014
+Network 45: BSSID E0:46:9A:75:EA:F0
+ Manuf      : Netgear
+ First      : Thu Sep  4 13:08:10 2014
+ Last       : Thu Sep  4 13:08:49 2014
+ Type       : infrastructure
+ BSSID      : E0:46:9A:75:EA:F0
+   SSID 1
+    Type       : Beacon
+    SSID       : "Gaines Lab" 
+    First      : Thu Sep  4 13:08:10 2014
+    Last       : Thu Sep  4 13:08:49 2014
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 13
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+ Channel    : 6
+ Frequency  : 2437 - 13 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 13
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 13
+ Datasize   : 0
+ Last BSSTS : 1999718093199
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 13 packets
+              Thu Sep  4 13:08:49 2014
+ Client 1: MAC E0:46:9A:75:EA:F0
+  Manuf      : Netgear
+  First      : Thu Sep  4 13:08:10 2014
+  Last       : Thu Sep  4 13:08:49 2014
+  Type       : From Distribution
+  MAC        : E0:46:9A:75:EA:F0
+  Channel    : 6
+  Frequency  : 2437 - 13 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 13
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 13
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 13 packets
+               Thu Sep  4 13:08:49 2014
+Network 46: BSSID E0:CA:94:96:A0:17
+ Manuf      : AskeyCom
+ First      : Thu Sep  4 13:08:32 2014
+ Last       : Thu Sep  4 13:08:32 2014
+ Type       : probe
+ BSSID      : E0:CA:94:96:A0:17
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:32 2014
+ Client 1: MAC E0:CA:94:96:A0:17
+  Manuf      : AskeyCom
+  First      : Thu Sep  4 13:08:32 2014
+  Last       : Thu Sep  4 13:08:32 2014
+  Type       : To Distribution
+  MAC        : E0:CA:94:96:A0:17
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Thu Sep  4 13:08:32 2014
+    Last       : Thu Sep  4 13:08:32 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:32 2014
+Network 47: BSSID E4:25:E7:6B:28:6C
+ Manuf      : Unknown
+ First      : Thu Sep  4 13:08:19 2014
+ Last       : Thu Sep  4 13:08:19 2014
+ Type       : probe
+ BSSID      : E4:25:E7:6B:28:6C
+ Channel    : 0
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+              Thu Sep  4 13:08:19 2014
+ Client 1: MAC E4:25:E7:6B:28:6C
+  Manuf      : Unknown
+  First      : Thu Sep  4 13:08:19 2014
+  Last       : Thu Sep  4 13:08:19 2014
+  Type       : To Distribution
+  MAC        : E4:25:E7:6B:28:6C
+   SSID 1
+    Type       : Probe Request
+    SSID       : UMassLowell
+    First      : Thu Sep  4 13:08:19 2014
+    Last       : Thu Sep  4 13:08:19 2014
+    Max Rate   : 54.0
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 0ab6f95c-3456-11e4-a572-0f04751ce201 1 packets
+               Thu Sep  4 13:08:19 2014
